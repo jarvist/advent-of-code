@@ -1068,7 +1068,7 @@ isvalidB.(d)
 count(isvalidB.(d))
 
 # ╔═╡ Cell order:
-# ╠═10a4bac6-3480-11eb-1cfe-7d40e4a63562
+# ╟─10a4bac6-3480-11eb-1cfe-7d40e4a63562
 # ╟─2775236c-3480-11eb-0f5b-59862010b3d4
 # ╟─43e08e92-3480-11eb-3391-cb36d054210f
 # ╠═576b12d4-3480-11eb-2466-dd8fdc678f5a

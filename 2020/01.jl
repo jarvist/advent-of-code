@@ -7,6 +7,9 @@ using InteractiveUtils
 # ╔═╡ 5c27a0ec-331c-11eb-30d8-f341567b98a0
 using DelimitedFiles
 
+# ╔═╡ 5e61df50-3483-11eb-2bba-c1e8f6033eea
+md"### Advent of Code 2020 - Day 01"
+
 # ╔═╡ 48ccae0a-331c-11eb-22f3-b7bd1a46db96
 test="""
 1721
@@ -256,6 +259,7 @@ begin
 end
 
 # ╔═╡ Cell order:
+# ╟─5e61df50-3483-11eb-2bba-c1e8f6033eea
 # ╠═5c27a0ec-331c-11eb-30d8-f341567b98a0
 # ╟─48ccae0a-331c-11eb-22f3-b7bd1a46db96
 # ╟─36e94bee-33e2-11eb-15ce-2346d7daabce
